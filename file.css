@@ -8,3 +8,16 @@ body{
     width: 150px;
     background-color: grey;
 }
+.container {
+    width: 300px;
+    height: 200px;
+    margin:0 auto;
+    background-image: repeating-linear-gradient(135deg, #F29B91 0px, #F09290 30px, transparent 30px, transparent 50px, #83B3DB 50px, #84ADCB 80px, transparent 80px, transparent 100px);
+    padding: 12px;
+  }
+  
+  .container .inner {
+    background: white;
+    width: 100%;
+    height: 100%;
+  }
