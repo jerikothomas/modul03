@@ -1,0 +1,8 @@
+body{
+    background-color: azure;
+}
+#kotakunyu{
+    border: 10px;
+    border-color: blueviolet;
+    border-radius: 50%;
+}
