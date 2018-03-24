@@ -5,21 +5,22 @@ body{
     width: 25%;
     height: 10%;
     background: grey;
-    padding: 5%;
+    padding: 1%;
 }
 .kotakunyu .dlmnya{
     width: 85%;
     height: 75%;
-    border-radius: 10%;
+    border-radius: 5%;
     background: burlywood;
     padding: 7%;
+    text-align: justify;
 }
 
 .border {
     width: 300px;
     height: 200px;
     margin:0 auto;
-    background-image: repeating-linear-gradient(135deg, #F29B91 0px, #F09290 30px, transparent 30px, transparent 50px, #83B3DB 50px, #84ADCB 80px, transparent 80px, transparent 100px);
+    background-image: repeating-linear-gradient(135deg, #FA0000 0px, #FA0000 20px, 20px, transparent 30px, #4c8ab3 30px, #4c8ab3 60px, transparent 60px, transparent 90px);
     padding: 12px;
   }
   
@@ -32,7 +33,7 @@ body{
   .jajargenjang{
       width: 100px;
       height: 100px;
-      background: blue;
+      background: #5688AB;
   }
 
   .octagon{
@@ -44,5 +45,7 @@ body{
       width: 100px;
       height: 100px;
       border-radius: 50%;
-      background: red;
+  }
+  .diagram .di1{
+    background: conic-gradient(#9ACD32 80%,#655555 20%);
   }
