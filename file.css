@@ -99,17 +99,17 @@ body{
       background: #9ACD32;
       background-image: linear-gradient(to right, transparent 50%, #655 0);
   }
-  .diagram .dig1 {
+  .diagram .dig {
     content: '';
     display: block;
     margin-left: 50%;
     height: 100%;
     border-radius: 0 100% 100% 0 / 50%;
-    background-color: inherit;
+    /* background-color: inherit; */
     transform-origin: left;
-    transform:rotate(.2turn);
+    /* transform:rotate(.2turn); */
   }
-  .diagram .dig2{
+  /* .diagram .dig2{
     content: '';
     display: block;
     margin-left: 50%;
@@ -118,4 +118,4 @@ body{
     background-color: #655;
     transform-origin: left;
     transform:rotate(.1turn);
-  }
+  } */
