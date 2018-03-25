@@ -105,10 +105,11 @@ body{
     margin-left: 50%;
     height: 100%;
     border-radius: 0 100% 100% 0 / 50%;
-    /* background-color: inherit; */
     transform-origin: left;
-    /* transform:rotate(.2turn); */
+    
   }
+  /* background-color: inherit; */
+  /* transform:rotate(.2turn); */
   /* .diagram .dig2{
     content: '';
     display: block;
